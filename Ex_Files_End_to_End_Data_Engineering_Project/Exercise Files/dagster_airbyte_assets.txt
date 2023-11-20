@@ -1,3 +1,5 @@
+# dagster_orchestration/dagster_orchestration/assets/__init__.py
+
 import os
 from dagster_dbt import DbtCliClientResource
 from dagster_dbt import load_assets_from_dbt_project
